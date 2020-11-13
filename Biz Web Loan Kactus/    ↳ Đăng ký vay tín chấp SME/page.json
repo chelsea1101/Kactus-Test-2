@@ -1,0 +1,129 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C4CE71E-3821-4790-B58A-50ADDB215C12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -723,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "F75B2F70-7E11-48AA-8DFE-3C9470D19E69"
+    },
+    {
+      "class": "artboard",
+      "id": "46FE0BA8-377C-4B03-8B3C-1498FC0BF3FE"
+    },
+    {
+      "class": "artboard",
+      "id": "1556E9F3-88CA-4C74-AE6A-07B04097296D"
+    },
+    {
+      "class": "artboard",
+      "id": "EA076108-3BF7-4264-B241-8F438F1596D3"
+    },
+    {
+      "class": "artboard",
+      "id": "7FEDF8D9-8754-4FF6-B174-367F8D657224"
+    },
+    {
+      "class": "artboard",
+      "id": "C177A2B7-5B02-45FC-BFFB-4FC75CE4D9F0"
+    },
+    {
+      "class": "group",
+      "id": "F633A05C-887B-4604-BE68-7A06D50FCC96"
+    }
+  ],
+  "name": "    ↳ Đăng ký vay tín chấp SME",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "C1DCC885-54F3-4A4D-8781-9D875CA5FD7E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -491,
+    "guides": [
+    ]
+  }
+}
