@@ -1,0 +1,199 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1098039215686274,
+    "green": 0.1137254901960784,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C3E50A8-4A59-4AFE-86CD-B0896408E457",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1930.8,
+    "width": 3059,
+    "x": 4606,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "08ED3428-DD3F-43E7-911E-910C45A06C62"
+    },
+    {
+      "class": "bitmap",
+      "id": "9FFF9BB5-0AF5-4B88-ACFD-A509C8B4C5F2"
+    },
+    {
+      "class": "bitmap",
+      "id": "9457FB9B-2D97-4481-859D-2232676B6C49"
+    },
+    {
+      "class": "text",
+      "id": "7EB28EA8-4CB7-4227-ADF6-60E61767C2FE"
+    },
+    {
+      "class": "bitmap",
+      "id": "444552D7-B690-4DC2-8BB9-744E9AEFAC6A"
+    },
+    {
+      "class": "text",
+      "id": "37D3F472-368C-438E-B667-94F94E3CE73F"
+    },
+    {
+      "class": "bitmap",
+      "id": "C3F74FBB-7E17-4B8F-A6EA-37F0A5704D9F"
+    },
+    {
+      "class": "text",
+      "id": "5E645310-7107-43C9-8645-B4F28BB9C491"
+    },
+    {
+      "class": "bitmap",
+      "id": "1FD3FA77-82D2-4C99-9B7D-D75668576C7B"
+    },
+    {
+      "class": "text",
+      "id": "0EC27ABC-587D-4277-9A18-C43C7D4A1349"
+    },
+    {
+      "class": "bitmap",
+      "id": "49DBDF83-2CDC-4610-ACB9-2DE2C15AD66C"
+    },
+    {
+      "class": "text",
+      "id": "EE65BDD3-B27E-456E-BA55-FD4FF8491BBB"
+    },
+    {
+      "class": "bitmap",
+      "id": "602922C8-A6A0-4C8E-92F4-B0648266A131"
+    },
+    {
+      "class": "text",
+      "id": "68BF56B2-DA2E-48C2-9330-4C0814D4B06C"
+    },
+    {
+      "class": "bitmap",
+      "id": "44DDFD4B-DEBD-49B4-9EB0-3B4CE9A2098E"
+    },
+    {
+      "class": "text",
+      "id": "0CB2BB88-B99D-47C7-BF80-B3F11A4BD266"
+    },
+    {
+      "class": "group",
+      "id": "2F308791-720D-491B-B182-7BF9A0B1250C"
+    }
+  ],
+  "name": "[Flow] Digital OTP / Xác thực giao dịch",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "EC698910-F826-4CA6-B8B9-30E48C92E1B0",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "EC215F79-FE32-498F-B15A-0A8A763ADF46",
+      "includePrototypingConnections": 0,
+      "pageID": "5660DAAA-0177-4262-87BA-9BD76D669C85",
+      "titleLayerID": "08ED3428-DD3F-43E7-911E-910C45A06C62"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

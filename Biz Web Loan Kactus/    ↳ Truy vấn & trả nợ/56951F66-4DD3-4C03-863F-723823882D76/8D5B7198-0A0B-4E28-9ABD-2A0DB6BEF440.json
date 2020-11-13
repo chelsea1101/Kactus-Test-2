@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8D5B7198-0A0B-4E28-9ABD-2A0DB6BEF440",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 1068,
+    "x": 274,
+    "y": 136
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab Bar / 1 line / 2 Tab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "967E381F-EE0A-4CD3-B060-12F27F7BEC9B_symbolID",
+      "value": "88C97835-4550-4F8A-B0BD-239AE8526182"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "967E381F-EE0A-4CD3-B060-12F27F7BEC9B/A51368DB-78A4-4D46-A895-AFD134FB9217_stringValue",
+      "value": "Truy vấn và trả nợ"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7FD11102-B07A-4DD4-B588-E08DB4C65F8B_symbolID",
+      "value": "2D889DE3-A1FE-48A6-9559-5B84CBA70477"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7FD11102-B07A-4DD4-B588-E08DB4C65F8B/C9D4856D-E647-4955-9741-46FC8D86C5A9_stringValue",
+      "value": "Vay thấu chi dòng tiền"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D96D7E4A-D1B8-48A2-A1F4-B12D8BF5665F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "71B553DA-91B5-4154-BBCD-2A146AECFA6F",
+  "verticalSpacing": 0
+}

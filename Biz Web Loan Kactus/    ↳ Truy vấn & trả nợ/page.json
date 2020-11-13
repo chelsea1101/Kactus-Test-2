@@ -1,0 +1,144 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "382660E0-2FBF-43C0-8626-842B5D29C8FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -703,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "70ABB4E1-29F2-4711-93D1-FC38C948A922"
+    },
+    {
+      "class": "artboard",
+      "id": "56951F66-4DD3-4C03-863F-723823882D76"
+    },
+    {
+      "class": "artboard",
+      "id": "ABA40C39-E48C-42E8-806B-D036162FD4E3"
+    },
+    {
+      "class": "artboard",
+      "id": "0F324103-33E9-46B4-A23A-E4AB103497A9"
+    },
+    {
+      "class": "artboard",
+      "id": "B7459037-9A84-4FFC-B638-E970913985BE"
+    },
+    {
+      "class": "artboard",
+      "id": "1574639E-6308-48EC-AA49-E7FB28919736"
+    },
+    {
+      "class": "group",
+      "id": "4970B58A-E727-4114-BF38-C2892E01C45F"
+    },
+    {
+      "class": "artboard",
+      "id": "E2821E18-2F72-45DA-B7F3-E929C2D3CBF3"
+    },
+    {
+      "class": "artboard",
+      "id": "E2241321-882F-4A76-BBB0-361CAD7844F4"
+    }
+  ],
+  "name": "    ↳ Truy vấn & trả nợ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "2968E1BA-2B13-4B1D-8A0D-F13D38790213",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "70ABB4E1-29F2-4711-93D1-FC38C948A922",
+      "lastUsedFlowDescription": "",
+      "lastUsedFlowTitle": "[Flow] Tax / Nộp hộ phí cảng biển"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -479,
+    "guides": [
+    ]
+  }
+}

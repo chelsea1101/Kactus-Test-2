@@ -1,0 +1,128 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBCC31A9-656D-43F8-8686-66BE014FED8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -703,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "FD54EC7D-F725-4F6C-A758-5956515D786B"
+    },
+    {
+      "class": "artboard",
+      "id": "B059C971-AB13-48F5-ACCE-24D525AF4DAE"
+    },
+    {
+      "class": "artboard",
+      "id": "6BE8229A-6582-4313-AD84-1D12908797A2"
+    },
+    {
+      "class": "artboard",
+      "id": "26204E5B-8A1E-4132-8405-4F6A569CD626"
+    },
+    {
+      "class": "group",
+      "id": "02C7293D-E1EC-489F-B983-37EB923CD039"
+    }
+  ],
+  "name": "    ↳ Loan /  Đăng ký vay thấu chi dòng tiền",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "02F14F93-A566-4873-B9C5-FB5E3BA34B17",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "FD54EC7D-F725-4F6C-A758-5956515D786B",
+      "lastUsedFlowDescription": "",
+      "lastUsedFlowTitle": "[Flow] Loan /  Đăng ký vay thấu chi dòng tiền - %N"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -479,
+    "guides": [
+    ]
+  }
+}

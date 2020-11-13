@@ -1,0 +1,187 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA8E5431-329C-4793-AAC5-A9EADD9EA366",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 1068,
+    "x": 8684,
+    "y": 5565
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B5E93CC9-3EB4-4526-93AB-DB3DB56C3596"
+    },
+    {
+      "class": "text",
+      "id": "180F3641-3A44-4B51-9724-9D037BFF4E3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFF573A9-DED9-44AC-AAE7-E88260E9E752"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "299CFF9F-C727-49CB-8F44-7A8D4142448D"
+    },
+    {
+      "class": "text",
+      "id": "A94E9013-923C-49CF-BACA-BEC34723B6A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20B922B7-A396-4E3F-87BD-DC38B6432B38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "321FECB4-17B4-4720-9D84-23E53D818734"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA13ED7B-2D2E-46B0-BAC4-C2A88AA3BE0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3AC1847-30E1-455A-B11C-D420B61723D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC778345-67BF-43BB-8C43-91840C4879FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "51938359-F793-4E03-8A95-CA76BF0B8B53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "155BAF53-C09C-41D1-BDD9-75B650CF8425"
+    },
+    {
+      "class": "group",
+      "id": "119CA4D6-EB39-4D34-BEDA-906ED7808433"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9BB06B91-B196-480E-B7C6-D00C74E4E3F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1144B1D0-A0EB-47B9-B0AD-7DC5D6C3370E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B0AB196-9371-4B5C-B94B-C22D69F7C0D2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D60656D-6DC8-43DD-B59A-B866DA48726A"
+    }
+  ],
+  "name": "Derivative / Thực hiện giao dịch - 4 Copy 3",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "B1673818-59CE-488C-8638-27457E09A53E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "D9C4BF31-7B38-4EF5-9CEF-D4230E5E9F84"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E6203A77-9440-4E74-9026-9E9F7A148AAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1518,
+    "width": 1366,
+    "x": 251,
+    "y": 2499
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "C9BEF442-E912-47FB-ABAA-F305356455F1"
+    },
+    {
+      "class": "rectangle",
+      "id": "6A0C2E18-4A3B-4297-A87D-3A990F51B549"
+    },
+    {
+      "class": "group",
+      "id": "1A50071E-551C-4CAE-BDCF-1021BE830101"
+    },
+    {
+      "class": "rectangle",
+      "id": "822007D4-0495-449A-A6B4-175B10B0EF0A"
+    },
+    {
+      "class": "text",
+      "id": "C2D640AB-CB1B-4EE2-AF9E-D613B388A095"
+    },
+    {
+      "class": "group",
+      "id": "9691F3A4-207E-4275-A04B-FC885FEFC5D5"
+    },
+    {
+      "class": "group",
+      "id": "5908DE17-31BC-4A99-BE90-119D7531A657"
+    },
+    {
+      "class": "group",
+      "id": "F4CC9BF9-B8C9-4CC0-A693-6F6FAC0ECBF4"
+    },
+    {
+      "class": "group",
+      "id": "4D99DCBA-F589-4013-92FE-6FCFDE746C73"
+    },
+    {
+      "class": "group",
+      "id": "0562CC1A-518E-4AB2-A28B-6BBD462141D3"
+    },
+    {
+      "class": "group",
+      "id": "DCE3090A-1119-4009-A4C8-84F22725116F"
+    },
+    {
+      "class": "group",
+      "id": "30701A60-5D1D-4E37-BA7F-290331FE7217"
+    },
+    {
+      "class": "group",
+      "id": "6E76D1BC-DD0E-4FB4-BCAF-AB6B250B9189"
+    },
+    {
+      "class": "group",
+      "id": "B312EF1B-00B6-4C16-B6F0-DDEE8FB8857E"
+    },
+    {
+      "class": "bitmap",
+      "id": "A013A4D1-2C20-4642-8C99-A6FF45DA342A"
+    }
+  ],
+  "name": "Transaction status - 1",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "54DE6E1A-29C5-4064-8773-5A7ED0E7DE2E",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "B94DB99C-F962-4B3E-BC6B-EB3DA5E65BF7"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

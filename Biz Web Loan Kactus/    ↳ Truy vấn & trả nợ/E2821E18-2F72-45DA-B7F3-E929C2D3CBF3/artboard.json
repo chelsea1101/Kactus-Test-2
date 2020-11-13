@@ -1,0 +1,187 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1098039215686274,
+    "green": 0.1137254901960784,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2821E18-2F72-45DA-B7F3-E929C2D3CBF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2344.8,
+    "width": 7534,
+    "x": 2256,
+    "y": 2031
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C40C2F06-62C0-4C53-BD1E-D4479023E621"
+    },
+    {
+      "class": "bitmap",
+      "id": "BE81767D-E801-457D-865C-8727A071C13D"
+    },
+    {
+      "class": "text",
+      "id": "0110004D-2840-4722-A516-036AB7F14B7F"
+    },
+    {
+      "class": "bitmap",
+      "id": "3187CF06-15F7-4F9D-A5CE-721D62BE2681"
+    },
+    {
+      "class": "text",
+      "id": "5F2609F0-40EA-4E06-9EA8-9773C71F366B"
+    },
+    {
+      "class": "bitmap",
+      "id": "F6EEFFFE-C6E0-44F8-8690-90E5E62E72E6"
+    },
+    {
+      "class": "text",
+      "id": "7ADA74B5-6769-4BF3-8E9E-F9261EC3B51A"
+    },
+    {
+      "class": "bitmap",
+      "id": "754E4051-DF5B-4589-9659-00537CE4CABD"
+    },
+    {
+      "class": "text",
+      "id": "1B5614F2-EBDA-4581-B908-60AE57099083"
+    },
+    {
+      "class": "bitmap",
+      "id": "00D18B71-EA03-4611-828E-8B5E27B4C2F1"
+    },
+    {
+      "class": "text",
+      "id": "379DB4E9-F95F-4A11-A610-F608975EA6A0"
+    },
+    {
+      "class": "bitmap",
+      "id": "FCE883C0-1392-4A3F-A2F2-524E9F752760"
+    },
+    {
+      "class": "text",
+      "id": "6C01A125-E3E7-49E2-83BE-15EBF42C8359"
+    },
+    {
+      "class": "group",
+      "id": "EB01A474-1E57-40E8-816A-60E7A424F748"
+    }
+  ],
+  "name": "[Flow] Tax / Nộp hộ phí cảng biển",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E2BE9248-C591-4273-BC80-6D9579505958",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "70ABB4E1-29F2-4711-93D1-FC38C948A922",
+      "includePrototypingConnections": 0,
+      "pageID": "382660E0-2FBF-43C0-8626-842B5D29C8FE",
+      "titleLayerID": "C40C2F06-62C0-4C53-BD1E-D4479023E621"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

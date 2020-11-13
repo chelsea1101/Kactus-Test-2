@@ -1,0 +1,195 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1098039215686274,
+    "green": 0.1137254901960784,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D37B866B-DAB6-446E-A5D8-1F50D19EF89D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4796.8,
+    "width": 4446,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0D9ADABD-384E-425D-BCF9-5A41AF400DC2"
+    },
+    {
+      "class": "bitmap",
+      "id": "A8C795D7-5F10-4EDC-AC09-95C1C11C441E"
+    },
+    {
+      "class": "text",
+      "id": "231E6BB6-13C4-420B-B234-B2B09C5D8DEE"
+    },
+    {
+      "class": "bitmap",
+      "id": "A59E7BD0-3CB0-4A5E-8929-D3DE86A6BDAF"
+    },
+    {
+      "class": "text",
+      "id": "E2E76935-02C4-46E5-AA01-077609324851"
+    },
+    {
+      "class": "bitmap",
+      "id": "DE3C1CCF-3248-4A42-83FC-1258A0FB7F49"
+    },
+    {
+      "class": "text",
+      "id": "34200C8C-FC6F-4CAF-B97E-97E50C3C9320"
+    },
+    {
+      "class": "bitmap",
+      "id": "F9326F94-AB0A-4136-84BD-5226EEFEB80A"
+    },
+    {
+      "class": "text",
+      "id": "4F1607B6-B000-41B8-9967-D14E7B348ED0"
+    },
+    {
+      "class": "bitmap",
+      "id": "F99115DF-6FED-4E13-9204-ACC271DD2EE2"
+    },
+    {
+      "class": "text",
+      "id": "FCAC47A8-33A2-4E8A-A6AD-B31FB10F23B6"
+    },
+    {
+      "class": "bitmap",
+      "id": "AEA5F3CE-D2DC-47A6-8C7D-354B98B147F6"
+    },
+    {
+      "class": "text",
+      "id": "35E984B1-D8F2-4D41-B99A-589C403B3CDA"
+    },
+    {
+      "class": "bitmap",
+      "id": "CE4B3EC8-85A0-4AA6-BCE7-E7CDCAF6F676"
+    },
+    {
+      "class": "text",
+      "id": "53D07F45-F429-4683-AAF2-B2091E17BBA4"
+    },
+    {
+      "class": "group",
+      "id": "D4CD7BE9-8B11-464C-8A0E-6CA747E6E2FD"
+    }
+  ],
+  "name": "Chuyển khoản theo lô",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "9C8EC316-9717-4150-A4A3-CF8AE46A4E12",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "F54AB03D-DC3D-4F77-88EE-5B0C0FF49BBD",
+      "includePrototypingConnections": 1,
+      "pageID": "337E3FCE-6D57-49F1-B974-F896917F8C0D",
+      "titleLayerID": "0D9ADABD-384E-425D-BCF9-5A41AF400DC2"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

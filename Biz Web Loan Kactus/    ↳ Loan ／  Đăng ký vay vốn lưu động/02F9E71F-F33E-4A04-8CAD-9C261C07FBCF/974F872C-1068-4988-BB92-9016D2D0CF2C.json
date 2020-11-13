@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "974F872C-1068-4988-BB92-9016D2D0CF2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 1068,
+    "x": 274,
+    "y": 136
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab Bar / 1 line / 2 Tab",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4EC6F8D9-0C02-4628-86D7-CC31100D748A/A51368DB-78A4-4D46-A895-AFD134FB9217_stringValue",
+      "value": "Vay vốn lưu động"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80A353F8-52D5-4175-BA9D-F969668A99C8/C9D4856D-E647-4955-9741-46FC8D86C5A9_stringValue",
+      "value": "Vay thấu chi dòng tiền"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66119FCA-FE17-415E-89A8-3ED4FFA86F5F/C9D4856D-E647-4955-9741-46FC8D86C5A9_stringValue",
+      "value": "Truy vấn và trả nợ"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "CCCD0A22-4689-4C2E-8323-96FE4BA8810F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DF3F154-8FB3-459C-9652-23C3CBE6D0F4",
+  "verticalSpacing": 0
+}

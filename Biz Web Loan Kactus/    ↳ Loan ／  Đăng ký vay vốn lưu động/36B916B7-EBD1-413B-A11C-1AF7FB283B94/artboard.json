@@ -1,0 +1,184 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36B916B7-EBD1-413B-A11C-1AF7FB283B94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1964,
+    "width": 1366,
+    "x": -118,
+    "y": 788
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "91B5A05D-F7F3-4C18-9C72-23DFFE301D56"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DBC3D76-2C7A-4567-BC99-E16FB86AECF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D562AE7-D700-4DC3-87A5-05F001FB0D81"
+    },
+    {
+      "class": "group",
+      "id": "BF343A91-02EE-4BAC-8287-117C75A0DA26"
+    },
+    {
+      "class": "group",
+      "id": "207783EC-8C79-4676-8959-5D7A88A19DC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBA8FA03-5411-4C89-932B-38188B8E9E1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD1F1509-B707-4188-9261-108C37B69966"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3CE68C8-FBB5-48DF-BA21-F281E57D0B0B"
+    },
+    {
+      "class": "group",
+      "id": "E86F1273-F3A5-4E6E-9B2A-265C250F2FC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CAFE9E4-C5A7-4ECE-93BF-CF346D8BDF75"
+    },
+    {
+      "class": "group",
+      "id": "62928E4D-A8E2-4BC7-9FDE-F1FDBE26A59C"
+    },
+    {
+      "class": "text",
+      "id": "C0B0CFB1-163F-4802-B938-2A9FE5D0E6B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EBF92FA-056E-4024-9EE3-5910D2056AA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5A4FBE4-4CC6-4592-A4E6-87FF9B7DF157"
+    }
+  ],
+  "name": "Loan /  Đăng ký vay vốn nguồn lưu động - 1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "586DC99E-8848-4A34-B151-F1F98AA43008",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "78D15AD3-7D1A-49E5-ABDC-2EDEE3CDB4DE"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

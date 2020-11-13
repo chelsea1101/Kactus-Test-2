@@ -1,0 +1,312 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A52C2B6E-7BE1-4D4E-A733-66B46760379B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2943,
+    "width": 1366,
+    "x": 7093,
+    "y": 3731
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AEE2FDAF-F675-44EC-B40B-6A424892B184"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "902D81E6-9FAF-4C2F-A30F-5F4DAFC1D5AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "772BBF77-339A-454D-9991-70407D9094EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "302A38CC-629A-496D-94D2-9AFD7678F4B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9309A730-30E0-42C4-8CB1-C91505AD0FF1"
+    },
+    {
+      "class": "shapePath",
+      "id": "2C9AA9A3-D51F-498A-83DB-D96B13B7A88A"
+    },
+    {
+      "class": "text",
+      "id": "B9BF8E6D-2FB6-4269-9159-B7665C04A304"
+    },
+    {
+      "class": "text",
+      "id": "0BA3B61F-E5B3-4A13-9684-368A4B7402CA"
+    },
+    {
+      "class": "group",
+      "id": "23B40180-6608-4AF8-8874-10513A110AF0"
+    },
+    {
+      "class": "text",
+      "id": "EFCCF8F3-F0C7-4908-88C5-3B8928B9BC80"
+    },
+    {
+      "class": "text",
+      "id": "A4A9EDA8-70B8-447F-8800-AACBAAB01FA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2926BCE-8255-4382-9FB1-D2FDFB3381DB"
+    },
+    {
+      "class": "text",
+      "id": "099B9B76-AD4C-4D2F-895B-75EF52D4B413"
+    },
+    {
+      "class": "text",
+      "id": "D8F765C0-F547-4E5A-B9F1-71E4D780BE1D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9356400B-A915-4B3C-ACB7-E8C65E3B87B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "748C929F-EA7D-4166-8877-C80E4E03C1B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE9C5B56-DA61-4745-8482-8753239CD0C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1759B61B-FD04-42E1-9CAA-AABFAC457251"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A5240A5-4449-41F9-A318-B11A8232C540"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39431457-7BD4-405A-A69C-9FB80685AEC7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5674B35-B851-41EF-8C22-8AAA3679A09C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0E3EBD14-8B65-4F92-A319-95586BEBB6E0"
+    },
+    {
+      "class": "group",
+      "id": "8D3DD439-A056-4A70-9B57-90C375231B8C"
+    },
+    {
+      "class": "group",
+      "id": "2359B7FD-DFA8-4905-8082-B49372568E53"
+    },
+    {
+      "class": "group",
+      "id": "13977758-025D-40C5-B7AC-ED0AED372FDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC045BA2-9214-46DB-AAAD-3C765ACC4964"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A6848E7-2090-45B2-A0FA-301956AEF5EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75333D80-B16D-4A54-8BF1-0DD4DF865E42"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BB3A025-11CB-4FC1-857D-053E52BB0214"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27E27802-FAF6-42FC-AEDB-FDCD4EEB8A2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE87E00B-C66E-4D20-9CA4-B49F5A8DF69C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E6E97FE-5E23-4A89-B9CC-FF19A7907B5D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8559E3B5-EF65-4383-AA9B-D2C3C57DC71D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F9930EC7-761D-458E-85C8-B3B4A1675D8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2861B312-D5A5-4E23-B8A4-245D7756CB53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65B4056E-2A94-4D61-93C1-DC6FA4E3D968"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FDEF22A8-8213-4CFA-9370-EEB68DD32A24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B4D57CA-1CD4-4E0B-8F66-D11EC838C00F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D23D5BFB-41BD-47A3-8021-B8B8F231402A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24D01FAC-EB53-42E1-B6B1-A7C68BDBB40D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A9AACB6-0A61-4818-998C-1C513378200A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0AB437E1-ECED-4856-AE76-6EE4F0708032"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BC350D4-E0D8-4992-83DD-2FA743428792"
+    },
+    {
+      "class": "group",
+      "id": "AAB88E4E-3699-401B-A6AF-FF797B12C8CE"
+    },
+    {
+      "class": "text",
+      "id": "E1DD902B-A840-49BB-81BE-33DCAF0F394B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ACC0E80-1F31-4261-886C-446CE274AF23"
+    }
+  ],
+  "name": "Loan /  Đăng ký vay vốn nguồn lưu động - 1 Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FED36E48-ACFE-493B-9807-E83D72A4D623",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "78D15AD3-7D1A-49E5-ABDC-2EDEE3CDB4DE"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

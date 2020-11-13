@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1098039215686274,
+    "green": 0.1137254901960784,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47578D42-ED38-407E-A954-A6C4619AFBEA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2188.8,
+    "width": 4628,
+    "x": 4728,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B9971AA9-3F05-48F6-BF64-808AF8DD9997"
+    },
+    {
+      "class": "bitmap",
+      "id": "FA958761-7D96-4834-B763-33B040C58FA3"
+    },
+    {
+      "class": "text",
+      "id": "8485F4F3-7E13-4EDB-A595-8783E6EF7722"
+    },
+    {
+      "class": "bitmap",
+      "id": "6285B350-E843-4456-B968-D5520BE3E3C0"
+    },
+    {
+      "class": "text",
+      "id": "29D7E834-A243-45E4-91BF-9180E2E469B0"
+    },
+    {
+      "class": "bitmap",
+      "id": "209B09BF-A15A-48A2-8C5D-B89195D6B68A"
+    },
+    {
+      "class": "text",
+      "id": "6F5C60F7-6406-4DA2-AD76-61E1D44B63B7"
+    },
+    {
+      "class": "group",
+      "id": "EF038ECA-0CC4-4FFB-96B3-DAC0B56104AC"
+    }
+  ],
+  "name": "[Flow] Loan /  Đăng ký vay vốn nguồn lưu động",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F0AE0EB5-37D6-4866-8F33-1D3D11CA7E37",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "36B916B7-EBD1-413B-A11C-1AF7FB283B94",
+      "includePrototypingConnections": 1,
+      "pageID": "DECD36AB-3741-4727-9F91-1A670BF1C736",
+      "titleLayerID": "B9971AA9-3F05-48F6-BF64-808AF8DD9997"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

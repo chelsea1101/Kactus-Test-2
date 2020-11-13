@@ -1,0 +1,179 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C3D6D7B-77C9-43EC-9936-70CF95D9015F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 789,
+    "width": 500,
+    "x": 826,
+    "y": 8191
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9BB80B69-DAFB-4FA0-952E-A5C43D16BCA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAAD9515-AB1F-4911-9921-5C85A31F75BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFEC388B-BDCC-4029-9E4A-AB5051B81C24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F0C7F725-2A50-4714-A24A-01926C791277"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE2A4AF0-1875-4069-9AF5-C23EEB36FDF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53A87BCB-375D-431E-890F-5640D7A826BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D9C473B-5A76-4360-A9D5-CE99B5D51DA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "547B7F83-16B1-4FB9-B412-FD21293840DD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "97180022-5ED9-4E91-B1B4-A4C435BEBB8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDA84384-D692-4022-89E3-FBC0C2870CA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13D20412-52A3-4373-AF2F-6CE25C678A01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80BA62DC-A942-494F-A24B-BAD67BF977AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "873503D2-A819-41DB-B80D-48CCCF5D67CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "027A83AF-820D-4599-A53E-6D7E6F4B3A8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "433E4B40-E677-47F9-9D75-065ACD36BF94"
+    }
+  ],
+  "name": "Derivative / Thực hiện giao dịch - 8",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "314FA5C6-4996-4483-9E62-1DF939B7AB88",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "0C3D6D7B-77C9-43EC-9936-70CF95D9015F"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

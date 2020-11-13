@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AA550240-A12A-4B86-95DD-AD82E33C7FC9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1033,
+    "width": 4336,
+    "x": 315.5,
+    "y": 3592
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B6CA27E5-84AD-42F5-8BA5-36279308A64F"
+    },
+    {
+      "class": "shapePath",
+      "id": "8F121DEB-BC89-4F29-99D3-9A04778C0CFA"
+    },
+    {
+      "class": "rectangle",
+      "id": "380CF097-14AE-4310-9AC1-79E19825A647"
+    },
+    {
+      "class": "shapePath",
+      "id": "B61CBFC9-8AFE-4F89-921B-45AB136CCA96"
+    },
+    {
+      "class": "rectangle",
+      "id": "6988C5E5-9DB8-42FF-AF9E-56D81D7217FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "73358239-DC23-4F65-B9DC-4E342FE0A998"
+    }
+  ],
+  "name": "-Connections",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "962B1CFF-94E0-4186-AA1A-3E879DF0193F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "isConnectionsContainer": 1
+    }
+  }
+}
