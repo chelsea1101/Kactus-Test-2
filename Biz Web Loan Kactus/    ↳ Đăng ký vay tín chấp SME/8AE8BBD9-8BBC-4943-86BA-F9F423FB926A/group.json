@@ -1,88 +1,76 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EA076108-3BF7-4264-B241-8F438F1596D3",
+  "do_objectID": "8AE8BBD9-8BBC-4943-86BA-F9F423FB926A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
     ],
     "includedLayerIds": [
     ],
-    "layerOptions": 2,
+    "layerOptions": 0,
     "shouldTrim": false
   },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 436,
-    "width": 500,
-    "x": -5976,
-    "y": 176
+    "height": 2371,
+    "width": 3310,
+    "x": -5472,
+    "y": -59.5
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
-<<<<<<< Updated upstream
   "hasClickThrough": false,
-=======
-  "hasClickThrough": true,
->>>>>>> Stashed changes
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeBackgroundColorInExport": true,
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "3280DEFC-385E-4C80-88DE-A0C81143E37A"
+      "class": "rectangle",
+      "id": "4BF8A0AA-6EFF-4805-BD24-9E972EB16396"
     },
     {
-      "class": "group",
-      "id": "C97F8D6C-3237-47DB-AF9A-4D95CE10E360"
+      "class": "shapePath",
+      "id": "93AA65DD-E8A3-460F-967B-A38AC6CA2C49"
     },
     {
-      "class": "symbolInstance",
-      "id": "5608533A-91CF-44F0-AB28-9319AE2B2C15"
+      "class": "rectangle",
+      "id": "C4BA6770-564E-4219-A2DB-670055B6C155"
     },
     {
-      "class": "symbolInstance",
-      "id": "0527E923-7B73-4491-AF1F-B3BC534E3FDB"
+      "class": "shapePath",
+      "id": "9A8E2583-314A-4755-9C68-CD454CC9854F"
     },
     {
-      "class": "symbolInstance",
-      "id": "AC05B633-0C0A-433C-8C3B-6540DF4A05C5"
+      "class": "rectangle",
+      "id": "0D58C4CC-F6E9-477A-A00B-08606C238E52"
+    },
+    {
+      "class": "shapePath",
+      "id": "A317B390-2CA7-4DCD-9067-E36B07042411"
+    },
+    {
+      "class": "rectangle",
+      "id": "A3954929-EA85-4621-B7EE-F85BF60CCC6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B4B576D-2C72-4399-95A0-EA88D0F015CC"
     }
   ],
-  "name": "Tín chấp SME có người bảo lãnh / Đăng ký - 4",
-  "nameIsFixed": true,
-  "presetDictionary": {
-  },
-  "resizesContent": false,
+  "name": "-Connections",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "blur": {
@@ -117,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "B752AA1A-3CB1-40D4-B603-AB7CEB7C7A5F",
+    "do_objectID": "A0DABAD5-B5AA-46DB-812C-D5554F0FEB65",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -131,13 +119,7 @@
   },
   "userInfo": {
     "com.abynim.sketchplugins.userflows": {
-      "artboardID": "EA076108-3BF7-4264-B241-8F438F1596D3"
+      "isConnectionsContainer": 1
     }
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }
