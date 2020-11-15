@@ -1,0 +1,179 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1098039215686274,
+    "green": 0.1137254901960784,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C177A2B7-5B02-45FC-BFFB-4FC75CE4D9F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4123.8,
+    "width": 5832,
+    "x": 710,
+    "y": -2344
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6BF82040-085C-4646-9517-CDA227981E66"
+    },
+    {
+      "class": "bitmap",
+      "id": "1CFBC480-1FA1-4604-99B4-E13E8E11FBFC"
+    },
+    {
+      "class": "text",
+      "id": "3E7516BD-0A62-4DBD-B453-29C609D2717F"
+    },
+    {
+      "class": "bitmap",
+      "id": "D50AA3DC-974A-4385-8FF2-519169C923A8"
+    },
+    {
+      "class": "text",
+      "id": "6CB4C3C8-942A-4AE0-917E-687B14D84795"
+    },
+    {
+      "class": "bitmap",
+      "id": "98921899-A646-4E5F-BAEA-5CF270F12F7D"
+    },
+    {
+      "class": "text",
+      "id": "98224138-98D6-42D7-A82C-EA2FEAF59920"
+    },
+    {
+      "class": "bitmap",
+      "id": "29911686-96AF-4193-B0A9-6A4AFD17BD2D"
+    },
+    {
+      "class": "text",
+      "id": "2AA23491-C8E6-4421-A284-89017B6C7A8E"
+    },
+    {
+      "class": "bitmap",
+      "id": "03C33F0E-4064-44A6-9FCA-A133C9BA57A1"
+    },
+    {
+      "class": "text",
+      "id": "C79D0818-EE8D-4596-8A20-9106A9195405"
+    },
+    {
+      "class": "group",
+      "id": "423665FC-4C9E-4A85-9C7F-5E4BD9EEC459"
+    }
+  ],
+  "name": "[Flow] Tín chấp SME có người bảo lãnh / Đăng ký",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "F4076131-657E-41DF-A70E-442623AEE117",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "776AA79E-FCE5-4C22-B9E2-3E0F770F91C3",
+      "includePrototypingConnections": 1,
+      "pageID": "9B5B0B70-642A-4695-A9D7-CCB7A3791D26",
+      "titleLayerID": "57ECCAA6-B234-42E3-BF01-972D3C9CA56B"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
