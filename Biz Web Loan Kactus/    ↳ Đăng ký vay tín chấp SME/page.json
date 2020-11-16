@@ -2,7 +2,11 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
+<<<<<<< HEAD
   "do_objectID": "6C4CE71E-3821-4790-B58A-50ADDB215C12",
+=======
+  "do_objectID": "9B5B0B70-642A-4695-A9D7-CCB7A3791D26",
+>>>>>>> parent of 074f5f5... Commit khởi tạo
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +31,11 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
+<<<<<<< HEAD
     "base": -723,
+=======
+    "base": -703,
+>>>>>>> parent of 074f5f5... Commit khởi tạo
     "guides": [
     ]
   },
@@ -41,6 +49,7 @@
   "layers": [
     {
       "class": "artboard",
+<<<<<<< HEAD
       "id": "F75B2F70-7E11-48AA-8DFE-3C9470D19E69"
     },
     {
@@ -65,11 +74,52 @@
     },
     {
       "class": "group",
-<<<<<<< Updated upstream
       "id": "F633A05C-887B-4604-BE68-7A06D50FCC96"
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
       "id": "8AE8BBD9-8BBC-4943-86BA-F9F423FB926A"
 >>>>>>> Stashed changes
+=======
+      "id": "776AA79E-FCE5-4C22-B9E2-3E0F770F91C3"
+    },
+    {
+      "class": "artboard",
+      "id": "E4729E91-0216-40B8-A12B-72D72561EC68"
+    },
+    {
+      "class": "artboard",
+      "id": "A65982FD-66BC-4487-9DCB-2CE1BAF23600"
+    },
+    {
+      "class": "artboard",
+      "id": "3D6FB32C-DB9B-41B8-85F1-0A5D4DE60250"
+    },
+    {
+      "class": "artboard",
+      "id": "BAE89E1F-C574-4A3C-A7B4-92ADD9C17A07"
+    },
+    {
+      "class": "group",
+      "id": "2A224ED9-6C51-47D9-9527-3CD8CF5E318D"
+    },
+    {
+      "class": "artboard",
+      "id": "FAB16417-E198-4F0E-9BC3-6543444632D1"
+>>>>>>> parent of 074f5f5... Commit khởi tạo
+=======
+>>>>>>> parent of 11e660f... Sửa vị trí
+=======
+>>>>>>> parent of 11e660f... Sửa vị trí
+=======
+>>>>>>> parent of 11e660f... Sửa vị trí
+=======
+>>>>>>> parent of 11e660f... Sửa vị trí
+=======
+>>>>>>> parent of 11e660f... Sửa vị trí
     }
   ],
   "name": "    ↳ Đăng ký vay tín chấp SME",
@@ -112,7 +162,11 @@
       "blendMode": 0,
       "opacity": 1
     },
+<<<<<<< HEAD
     "do_objectID": "C1DCC885-54F3-4A4D-8781-9D875CA5FD7E",
+=======
+    "do_objectID": "FBA8E0F2-BE59-433E-ABE8-D762163C3F3F",
+>>>>>>> parent of 074f5f5... Commit khởi tạo
     "endMarkerType": 0,
     "fills": [
     ],
@@ -124,9 +178,22 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+<<<<<<< HEAD
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -491,
+=======
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "776AA79E-FCE5-4C22-B9E2-3E0F770F91C3",
+      "lastUsedFlowDescription": "",
+      "lastUsedFlowTitle": "[Flow] Tín chấp SME có người bảo lãnh / Đăng ký"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -479,
+>>>>>>> parent of 074f5f5... Commit khởi tạo
     "guides": [
     ]
   }

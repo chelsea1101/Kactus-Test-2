@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1101E15F-FDA7-47CA-9A35-B2FB2551F99F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 128,
+    "width": 1068,
+    "x": 1.13686837721616e-13,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "05. Table / Column / Normal / Background + Header + 3 Rows",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D176297D-B2A4-412F-B85F-D3B0D0BA5F4A_symbolID",
+      "value": "34F6D814-5544-4038-85C8-3CB2043C0E26"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "49331B70-29A9-4A47-96F4-68E22C94856F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A59C0CD-E269-4410-BBBC-5AF4D4EB24A6_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "2C46DB6D-A2EB-4A08-8B36-038C7FE24756",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC623160-7E00-4E7F-80F5-924E789D1615",
+  "verticalSpacing": 0
+}

@@ -31,11 +31,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-<<<<<<< Updated upstream
   "hasClickThrough": false,
-=======
-  "hasClickThrough": true,
->>>>>>> Stashed changes
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
