@@ -2,7 +2,11 @@
   "_class": "page",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
+<<<<<<< HEAD
   "do_objectID": "AF219469-0E1B-46F8-A80C-63AFECCD7D8A",
+=======
+  "do_objectID": "92C92B81-281C-45E8-95BC-78B77B671D5E",
+>>>>>>> parent of 074f5f5... Commit khởi tạo
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -27,7 +31,11 @@
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
+<<<<<<< HEAD
     "base": -723,
+=======
+    "base": 0,
+>>>>>>> parent of 074f5f5... Commit khởi tạo
     "guides": [
     ]
   },
@@ -80,7 +88,11 @@
       "blendMode": 0,
       "opacity": 1
     },
+<<<<<<< HEAD
     "do_objectID": "9F82B451-2200-46DA-8EB9-A0097DE2C2C3",
+=======
+    "do_objectID": "3164EAD3-15F3-493C-B68B-BED17F2E20E6",
+>>>>>>> parent of 074f5f5... Commit khởi tạo
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,9 +104,22 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+<<<<<<< HEAD
   "verticalRulerData": {
     "_class": "rulerData",
     "base": -491,
+=======
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "F54AB03D-DC3D-4F77-88EE-5B0C0FF49BBD",
+      "lastUsedFlowDescription": "",
+      "lastUsedFlowTitle": "Chuyển khoản theo lô"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+>>>>>>> parent of 074f5f5... Commit khởi tạo
     "guides": [
     ]
   }

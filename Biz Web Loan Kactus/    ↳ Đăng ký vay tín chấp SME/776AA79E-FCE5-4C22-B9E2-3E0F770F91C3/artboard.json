@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9686274509803922,
+    "green": 0.9686274509803922,
+    "red": 0.9686274509803922
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "776AA79E-FCE5-4C22-B9E2-3E0F770F91C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3899,
+    "width": 1366,
+    "x": -118,
+    "y": 788
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "58C7F058-8554-4066-B46A-36B20C3BA945"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F59ED4B-1979-448F-8002-0B889D1C2342"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4931F4A-1BD3-46A8-A53A-B4CAAE21F7B2"
+    },
+    {
+      "class": "group",
+      "id": "D8815B42-42DE-490B-9D75-868E29815F68"
+    },
+    {
+      "class": "group",
+      "id": "DB697304-661C-4255-8ABC-062EDCD144C7"
+    },
+    {
+      "class": "group",
+      "id": "7CDB7E14-7E8C-4458-9366-06312F26CFC9"
+    },
+    {
+      "class": "group",
+      "id": "E6CF1DD5-C007-4D66-A51F-6AF95D18830E"
+    },
+    {
+      "class": "group",
+      "id": "A729FADD-8331-464C-8F0E-4592A2C4CA58"
+    },
+    {
+      "class": "group",
+      "id": "97E394F5-C9AC-46C8-85AB-D7A3E36B4AE0"
+    },
+    {
+      "class": "group",
+      "id": "DA815CDC-A598-41AA-A9D9-404EDFC9D9AB"
+    }
+  ],
+  "name": "Tín chấp SME có người bảo lãnh / Đăng ký - 1",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "5125D1A4-AB55-4E32-8E68-1D2EC1DD5A9B",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "776AA79E-FCE5-4C22-B9E2-3E0F770F91C3"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
